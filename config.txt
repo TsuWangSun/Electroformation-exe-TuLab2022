@@ -1,0 +1,8 @@
+# config file for FG
+
+FREQ(Hz)	AMPL(Vpp)	Time (hh:mm:ss)	Function
+400-1000	0.5-2.5	00:01:00		SIN
+1000		2.5 		00:00:03		SIN
+1000-2	2.5 		00:00:06		SIN
+2		2.5 		00:00:10		SIN
+
